@@ -28,7 +28,7 @@ https://www.bilibili.com/video/BV1PhKyzaEV1/?vd_source=8852e2aa7ede0a4cb6d210bc8
 ---
 
 
-> 欢迎游玩并反馈问题！
+欢迎游玩并反馈问题！
 
 
 ---
@@ -57,6 +57,8 @@ https://www.bilibili.com/video/BV1PhKyzaEV1/?vd_source=8852e2aa7ede0a4cb6d210bc8
 
 
 > 若你喜欢这款小游戏，欢迎支持我一杯奶茶的动力 ☕。
-> 未成年人就算了
+---
 
-![b251561afa472c7d12df158a59a7d395](https://github.com/user-attachments/assets/1ff49a4d-94e9-4ef0-a56f-3daeb5bb95fa)
+
+![9aa127fe-e1b9-4ff1-b15e-035c4aa74971](https://github.com/user-attachments/assets/accb37e1-195e-448f-8340-51acd550b816)
+
