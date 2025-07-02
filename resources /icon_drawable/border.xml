@@ -1,0 +1,13 @@
+<!-- res/drawable/border.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@android:color/transparent" />
+    <stroke
+        android:width="2dp"
+        android:color="@color/game_base_color" /> <!-- 红色边框，可以换成你想要的颜色 -->
+    <corners android:radius="4dp" /> <!-- 圆角，可选 -->
+    <padding
+        android:left="10dp"
+        android:top="10dp"
+        android:right="10dp"
+        android:bottom="10dp" />
+</shape>
