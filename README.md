@@ -1,4 +1,4 @@
-🌐 Prefer English? [Click here for English version](./README.en.md)
+🌐 Prefer English? [Click here for English version](./readme_en.md)
 
 # 掌上战略配备英雄 (Stratagem Hero Mobile)
 ###### 冻肉快乐搓球小游戏
