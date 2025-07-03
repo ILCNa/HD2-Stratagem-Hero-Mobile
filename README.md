@@ -1,7 +1,7 @@
 🌐 Prefer English? [Click here for English version](./readme_en.md)
 
 # 掌上战略配备英雄 (Stratagem Hero Mobile)
-###### 冻肉快乐搓球小游戏
+###### 冻肉快乐搓球小游戏(Android7.0+)
 
 - 考研党利用碎片时间搓的同人小玩具(真是不务正业啊)
 - 应广大网友需求,肝出了小键盘功能,支持虚拟键盘也支持外接.(祝你们玩得开心)
