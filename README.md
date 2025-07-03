@@ -45,25 +45,19 @@
 ![image](https://github.com/user-attachments/assets/f87a8e53-2501-42fa-bf45-ba0b53e341f4)
 ![image](https://github.com/user-attachments/assets/783be7f0-b843-45e6-97ab-31310fc6ec69)
 ![image](https://github.com/user-attachments/assets/10d028a3-f0ac-4624-9d3b-88f4608b945d)
-![Uploading image.png…]()
+
 
 ---
 
 ## 🧠 开发者的话
-众所周知，《绝地潜兵2》有一款——
-只有买了超级公民版，才能在超级驱逐舰上玩的小游戏，叫《战略配备英雄》。
-
 前段时间我打“超级地球保卫战”上头， 恰好学校在教安卓开发
 突然就有了个念头：
 要不，把这个小游戏做成安卓应用试试？
-
 想想看，像潜兵一样，
 通过触屏输入战术指令，
 这个点子似乎很不错。
-
 老实说这个小项目并不咋滴，代码写的稀碎，小屎山堆成大屎山，所以就不开源了
 所以到最后只需要当成小玩具随便消遣消遣就好，别有太多期待。
-
 
 
 ---
