@@ -1,7 +1,7 @@
 🌐 Prefer English? [Click here for English version](./readme_en.md)
 
 # 掌上战略配备英雄 (Stratagem Hero Mobile)
-###### 冻肉快乐搓球小游戏(Android7.x及其以上版本/兼容HarmonyOS 3.x/4.x)
+###### 冻肉快乐搓球小游戏(Android7.x及其以上版本/兼容HarmonyOS 3.x/4.x) 仅供学习和娱乐，不得用于任何商业用途
 
 - 考研党利用碎片时间搓的同人小玩具(真是不务正业啊)
 - 应广大网友需求,肝出了小键盘功能,支持虚拟键盘也支持外接.(祝你们玩得开心)
@@ -10,15 +10,7 @@
 - 一个由《Helldivers II》启发的非官方战术小游戏，安卓平台版本。
 - 无需联网、无广告、纯单机，随时随地享受练习搓球的乐趣。
 
----
 
-- > ⚠️ 本项目为非商业用途的粉丝作品,程序代码由本人实现。
-- 本项目为非商业性质，仅供日常练习搓球技巧与角色扮演；
-- 使用到的部分素材资源来自互联网络分享
-- 所有IP权利归原作者与HD2发行方(Arrowhead Game Studios)所有
-- 本项目与《Helldivers II》官方无任何关联。
-- 感谢Arrowhead Game Studios创作如此优质的游戏
-- 如有版权方要求，请及时联系我第一时间删除或调整。
 
 ---
 ## 📱更新日志
@@ -52,7 +44,17 @@
 ![image](https://github.com/user-attachments/assets/783be7f0-b843-45e6-97ab-31310fc6ec69)
 ![image](https://github.com/user-attachments/assets/10d028a3-f0ac-4624-9d3b-88f4608b945d)
 
+---
 
+## ⚠️ 版权声明
+- 本项目为非商业用途的粉丝作品,程序代码由本人实现。
+- 仅供日常练习搓球技巧与角色扮演；
+- 使用到的部分素材资源来自互联网络分享
+- 所有IP权利归原作者与HD2发行方(Arrowhead Game Studios)所有
+- 本项目与《Helldivers II》官方无任何关联。
+- 感谢Arrowhead Game Studios创作如此优质的游戏
+- 如有版权方要求，请及时联系我第一时间删除或调整。
+- 
 ---
 
 ## 🧠 开发者的话
