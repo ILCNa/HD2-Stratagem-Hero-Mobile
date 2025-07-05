@@ -3,79 +3,85 @@
 🌐 Prefer Chinese? [点此查看中文版](./README.md)
 
 # Stratagem Hero Mobile  
-###### A Silly Tactical Ball-Tapping Game for Android 7.0+
+###### A casual “Frozen Meat” tactical mini-game (Android 7.x+ / compatible with HarmonyOS 3.x/4.x)  
+*For learning and entertainment purposes only; not intended for any commercial use.*
 
-- A fan-made mini game whipped up by a grad school exam candidate during study breaks. (Truly off the rails.)
-- Back by popular demand: added a tiny virtual keyboard! Now supports both on-screen and external input. (Hope you enjoy it.)
-- **If you like it, please consider giving it a star ⭐—thanks!**
-- **If you or a friend need art assets, feel free to grab them from the `resources` folder.**
-- A non-official tactical mini-game inspired by *Helldivers II*, now on Android.
-- Fully offline, ad-free, pure single-player fun—tactical decisions anytime, anywhere.
-
----
-
-- This project is strictly non-commercial and intended for learning and sharing only.  
-- Some icons are sourced from public online assets—please contact me if there's any infringement.  
-- This project is **not affiliated** with *Helldivers II* or its official team.
+- A fan-made mini-game created during fragmented study breaks by a graduate exam candidate (definitely a side hobby).  
+- Added a customizable mini keyboard on demand by the community, supporting both virtual and external keyboards (enjoy!).  
+- **If you like the project, please give it a star⭐, thank you!**  
+- **Friends who need assets can find them in the resources folder; all assets are for learning reference only.**  
+- A non-official tactical mini-game inspired by *Helldivers II*, made for Android.  
+- Offline, ad-free, pure single-player fun to enjoy tactical decision-making anytime, anywhere.
 
 ---
 
-## 📱 Changelog
+## 📱 Changelog  
+2025/07/03  
+- Added mini keyboard feature as requested by users.  
+- Keyboard size, position, and transparency are fully customizable; defaults can be reset.  
+- Rewrote keyboard input interface to support external keyboard typing.  
+- Added difficulty parameters to adjust turn time and bonus time.  
+- Added some quirky features.  
+- Improved UI layout.  
+- Fixed various bugs.
 
-### 2025/07/03
-- Added virtual keyboard support, as requested by users.
-- Keyboard can be resized, repositioned, adjusted for transparency, or reset to default.
-- Rewrote input logic to support external keyboards.
-- Added difficulty settings to tweak round timer and bonus time.
-- Introduced some… odd stuff.
-- Improved layout UI.
-- Fixed several bugs.
-
-### 2025/07/01
-- Added compatibility for older Android versions (thanks to community feedback).
-- Fixed gesture-related bugs (thanks to the helpful players!).
-- Completed stratagem list.
-- Adjusted layout issues.
+2025/07/01  
+- Added support for lower Android versions; thanks to helpful users.  
+- Fixed gesture bugs; thanks to feedback from the community.  
+- Completed tactical equipment.  
+- Fixed layout issues.  
 - Reduced APK size.
 
 ---
 
-## 📺 Video Demos
-
-- [🎬 Click to watch the release video (includes operation guide)](https://www.bilibili.com/video/BV1Jc33zrEBr/)
-- [🎬 Click to watch DEMO video (older version)](https://www.bilibili.com/video/BV1PhKyzaEV1/?vd_source=8852e2aa7ede0a4cb6d210bc8f9f27cc#reply114759361895965)
-
----
-
-## 📸 Screenshots
-
-![image](https://github.com/user-attachments/assets/a6270849-145d-45f0-af9c-ec04ba0ec2fe)  
-![image](https://github.com/user-attachments/assets/7ebbd361-d213-4c59-b50a-c1ef707c2230)  
-
-![image](https://github.com/user-attachments/assets/f87a8e53-2501-42fa-bf45-ba0b53e341f4)  
-![image](https://github.com/user-attachments/assets/783be7f0-b843-45e6-97ab-31310fc6ec69)  
-![image](https://github.com/user-attachments/assets/10d028a3-f0ac-4624-9d3b-88f4608b945d)
+## 📺 Demo Videos  
+[🎬 Watch the release video (with instructions)](https://www.bilibili.com/video/BV1Jc33zrEBr/)  
+[🎬 Watch an older demo video](https://www.bilibili.com/video/BV1PhKyzaEV1/?vd_source=8852e2aa7ede0a4cb6d210bc8f9f27cc#reply114759361895965)
 
 ---
 
-## 🧠 From the Developer
+## 📸 Screenshots  
+![Screenshot1](https://github.com/user-attachments/assets/a6270849-145d-45f0-af9c-ec04ba0ec2fe)  
+![Screenshot2](https://github.com/user-attachments/assets/7ebbd361-d213-4c59-b50a-c1ef707c2230)  
 
-So... I got a little obsessed with *Super Earth Defense War*,  
-and around the same time, my school was teaching Android development.  
-Then this random idea struck me:  
-> “Why not turn this mini-game into an actual Android app?”
-
-Just imagine—like a real Helldiver, inputting tactical commands via touchscreen.  
-Honestly, the idea sounded kinda cool.
-
-Truth is, this little project is messy.  
-The code? A steaming pile of spaghetti.  
-So yeah, I’m **not** open-sourcing it. 🙈  
-At the end of the day, it’s just a tiny toy to pass the time. Don’t expect too much.
+![Screenshot3](https://github.com/user-attachments/assets/f87a8e53-2501-42fa-bf45-ba0b53e341f4)  
+![Screenshot4](https://github.com/user-attachments/assets/783be7f0-b843-45e6-97ab-31310fc6ec69)  
+![Screenshot5](https://github.com/user-attachments/assets/10d028a3-f0ac-4624-9d3b-88f4608b945d)
 
 ---
 
-> If you enjoyed the game, you’re welcome to fuel my next dev session with a cup of bubble tea ☕.
+## ⚠️ Copyright Notice  
+- This project is a fan-made, non-commercial work; all program code is independently developed.  
+- Intended solely for practicing tactical skills and casual role-playing.  
+- Some assets are sourced from publicly shared internet materials.  
+- All IP rights belong to the original creators and the publisher of *Helldivers II* (Arrowhead Game Studios).  
+- This project has no official affiliation with *Helldivers II*.  
+- Special thanks to Arrowhead Game Studios for creating such a great game.  
+- If any copyright holders have concerns, please contact me and I will promptly remove or adjust the content.
 
-![donation](https://github.com/user-attachments/assets/accb37e1-195e-448f-8340-51acd550b816)
+---
+
+## 🧠 Developer’s Notes  
+Recently I got hooked on a game called “Super Earth Defense,” and coincidentally, I was learning Android development at school.  
+It suddenly occurred to me: why not make this mini-game into an Android app?  
+Imagine giving tactical commands just like in *Helldivers*, but on a touchscreen.  
+It seemed like a fun idea.  
+Honestly, this project is rough around the edges — the code is messy and far from perfect, so I won’t open source it.  
+In the end, it’s just a little hobby project to casually enjoy, with no grand expectations.
+
+---
+
+♥ Huge thanks to everyone for your attention and support!  
+♥ Thanks to all the dedicated players who gave feedback and suggestions!  
+♥ Thanks to the super generous friends who sent me WeChat tips!
+
+---
+
+## ☕ Support the Developer  
+
+This project is completely free, ad-free, and contains no in-app purchases. If you enjoy this little game, consider buying me a coffee ☕️
+
+*This is purely for encouragement and non-commercial purposes. Thank you for your support!*
+
+![Coffee](https://github.com/user-attachments/assets/accb37e1-195e-448f-8340-51acd550b816)
 
