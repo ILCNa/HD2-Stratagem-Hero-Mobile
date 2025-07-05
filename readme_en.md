@@ -75,13 +75,5 @@ In the end, it’s just a little hobby project to casually enjoy, with no grand 
 ♥ Thanks to all the dedicated players who gave feedback and suggestions!  
 ♥ Thanks to the super generous friends who sent me WeChat tips!
 
----
 
-## ☕ Support the Developer  
-
-This project is completely free, ad-free, and contains no in-app purchases. If you enjoy this little game, consider buying me a coffee ☕️
-
-*This is purely for encouragement and non-commercial purposes. Thank you for your support!*
-
-![Coffee](https://github.com/user-attachments/assets/accb37e1-195e-448f-8340-51acd550b816)
 
